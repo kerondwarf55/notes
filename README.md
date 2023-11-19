@@ -18,3 +18,8 @@ Let's GO
 - Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. First, identify the most important tasks and focus on them first. Then, break down larger tasks into smaller, manageable steps. By prioritizing and planning your day, you can ensure that you finish what matters most.
 
 Additionally, it is important to stay up-to-date with new technologies and programming languages. Not only will this help keep your skills fresh, but it will also make you a more valuable asset to your team or company. Keep an eye out for new tools and resources that can help improve your workflow and make your job easier. Remember, continuous learning is the key to success in any field, including programming.
+
+# 2023-11-19
+- "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots. So far, the universe is winning." - Rick Cook
+
+This quote highlights the ongoing challenge for programmers to create user-friendly software that can withstand the unpredictable actions of users. It also emphasizes the importance of considering the end-user when designing and developing software.
