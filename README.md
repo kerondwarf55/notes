@@ -38,3 +38,6 @@ This quote highlights the ongoing challenge for programmers to create robust and
 First, prioritize your tasks. When you're working on a project, there will always be multiple things that need to get done. By determining which tasks are most important and which can wait, you can make sure that you focus on the right things at the Right time. Use a task management tool, such as Trello or Asana, to keep track of your to-dos and make adjustments as needed. 
  ---
  Second, wisely plan you time by estimating how long each task will take. You can use a time tracking tool like Toggl or RescueTime to help with this. Knowing how much time you have allocated for each step will ensure that your project stays on track and doesn't get derailed by time-consuming tasks that could have been avoided.
+
+# 2023-11-23
+- "Keep it simple, stupid!"
