@@ -44,3 +44,6 @@ First, prioritize your tasks. When you're working on a project, there will alway
 
 # 2023-11-24
 - "Programming wisdom for today: Always write code as if the person who will maintain it is a homicidal maniac who knows where you live." This quote by Andrew Hunt and David Thomas from their book "The Pragmatic Programmer" emphasizes the importance of writing clean, understandable, and well-documented code to make it easier for others (and your future self) to work with. It's not just about making the code functional, but also ensuring that it's maintainable and easy to understand.
+
+# 2023-11-25
+- "Programming wisdom for today: Strive for simplicity and readability in your code. Remember, code is read more often than it is written. Make it easy for others (and your future self) to understand and maintain."
