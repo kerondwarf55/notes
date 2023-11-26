@@ -47,3 +47,8 @@ First, prioritize your tasks. When you're working on a project, there will alway
 
 # 2023-11-25
 - "Programming wisdom for today: Strive for simplicity and readability in your code. Remember, code is read more often than it is written. Make it easy for others (and your future self) to understand and maintain."
+
+# 2023-11-26
+- "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots. So far, the universe is winning." - Rick Cook
+
+This quote highlights the ongoing challenge programmers face in creating user-friendly software that can withstand the unpredictable actions of users. It also suggests that as technology advances, so too does the potential for user error, making it increasingly difficult for programmers to stay one step ahead.
