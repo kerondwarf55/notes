@@ -105,3 +105,6 @@ To be successful in the world of programming, you must also be able to collabora
 
 # 2023-12-07
 - "Keep it simple, stupid!"
+
+# 2023-12-08
+- "Keep it simple, stupid!"
