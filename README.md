@@ -118,3 +118,8 @@ To be successful in the world of programming, you must also be able to collabora
 First, prioritize your tasks. When you're working on a project, it' s important to determine which tasks are most critical to the success of the project. By focusing on these tasks first, you can ensure that your code is of high quality and meets the requirements of your project before moving on to less important tasks or bugs. You can use techniques like the MoSCoW method (Must have, Should have and Could have) to categorize your task and prioritize them. Must have tasks should be completed first followed by Should haves and then Could havas. 
  其次，提前计划。在开始一个项目之前，确保你了解项目的需求和目标。这将帮助你在编写代码时避免在后期遇到问题和更改需求。使用版本控制系统（如Git）可以帮助你跟踪代码的更改，以便在需要时可以轻松地回滚到之前的版本。
  最后，保持组织。一个整洁、有组织的代码库可以提高你的工作效率，减少错误和遗漏。遵循良好的编码实践，如使用有意义的命名、添加注释和遵循代码风格指南。此外，定期审查和重构代码可以帮助确保你的代码始终保持最佳状态。 总之，通过优先处理任务、提前计划和保持代码组织，你可以成为一名更高效的程序员。
+
+# 2023-12-11
+- Today's programming wisdom is: "Premature optimization is the root of all evil." - Donald Knuth. 
+
+This quote reminds us that while optimizing code for performance can be important, it's often more efficient to write clear and simple code first, then optimize only where necessary. Spending too much time on optimization early on can lead to overly complex code that's difficult to maintain and may not even result in significant performance gains.
