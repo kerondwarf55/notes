@@ -318,3 +318,10 @@ Also, "Optimize for readability and maintainability. Today's performance bottlen
 
 # 2024-01-24
 - "Keep it simple, stupid!"
+
+# 2024-01-25
+- Today's programming wisdom is:
+
+"Premature optimization is the root of all evil." - Donald Knuth
+
+This quote, from the legendary computer scientist, highlights the importance of not over-optimizing code before it's necessary. It reminds us to focus on writing clear, maintainable, and correct code first. Profiling and optimizing should come later, when there's evidence that a specific part of the codebase is indeed a performance bottleneck. This approach saves time, reduces complexity, and promotes better software design in the long run.
